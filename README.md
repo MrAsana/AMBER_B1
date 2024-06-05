@@ -5,7 +5,7 @@ AMBER B1 is an easy-to-use，modular & lightweight robotic arm for service & col
 Check Zero Position https://raw.githubusercontent.com/AmberInside/Amber_AI_ROS2/main/Docs/initial_position.png
 
 <!--![AMBER B1](https://github.com/MrAsana/AMBER_B1_ROS2/blob/main/docs/imgs/AMBER-LOGO.jpg)-->
-<img src="https://github.com/MrAsana/AMBER_B1_ROS2/blob/main/docs/imgs/AMBER-LOGO.jpg" alt="drawing" width="400"/>
+<img src="[https://raw.githubusercontent.com/MrAsana/AMBER_B1_ROS2/B1_ROS2_V1.0)/docs/imgs/AMBER-LOGO.jpg" alt="drawing" width="400"/>
 
 ## AMBER B1 hardware quickstart
 
